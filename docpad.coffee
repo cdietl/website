@@ -12,7 +12,7 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "https://cdietl.github.io/website/"
+			url: "https://cdietl.github.io/website"
 
 			
 
@@ -29,7 +29,7 @@ docpadConfig = {
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "Claudia Dietl"
 
 			# The website author's email
 			email: "coaching@claudiadietl.de"
@@ -72,6 +72,10 @@ docpadConfig = {
 		getPreparedKeywords: ->
 			# Merge the document keywords with the site keywords
 			@site.keywords.concat(@document.keywords or []).join(', ')
+
+		# Get the Absolute URL of a document
+		getUrl: (document) ->
+			return @site.url + (document.url or document.get?('url'))
 
 
 	# =================================
