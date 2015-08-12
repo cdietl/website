@@ -12,7 +12,7 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://www.claudiadietl.de"
+			url: "https://cdietl.github.io/website/"
 
 			
 
