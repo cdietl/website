@@ -41,8 +41,28 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="/">Welcome</a>
+				<a class="brand" href="/">Claudia M. Dietl</a>
 				<ul class="nav">
+				<!-- 		
+					<li class="dropdown">
+    						<a class="dropdown-toggle" data-toggle="dropdown" href="#">Training</a>
+   						 <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+   						 		<li><a href="/posts/trainings-und-seminare">Trainings und Seminare</a></li>
+    							<li><a href="/posts/konfliktmanagement-fuer-fuehrungskraefte">Konfliktmanagement für Führungskräfte</a></li>
+    							<li><a href="/posts/emotional-intelligent-fuehren">Emotional intelligent führen</a></li>
+    							<li><a href="/posts/fuehren-ohne-weisungsbefugnis">Führen ohne Weisungsbefugnis</a></li>
+    							<li><a href="/posts/erfolgreich-fuehren-ohne-vorgesetzte">Erfolgreich führen ohne Vorgesetzten</a></li>
+    					</ul>
+    				</li>
+
+    				<li class="dropdown">
+    						<a class="dropdown-toggle" data-toggle="dropdown" href="#">Coaching</a>
+   						 <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+   						 		<li><a href="/posts/businesscoaching">Businesscoaching</a></li>
+    							<li><a href="/posts/persoenlichescoaching">Persönliches Coaching</a></li>
+       					</ul>
+    				</li> -->
+
 					<% for document in @getCollection('pages').toJSON(): %>
 						<li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'  if @document.url is document.url %>">
 							<a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
@@ -50,21 +70,43 @@
 					<% end %>
 				</ul>
 			</div>
+			<hr style="background-color:#831000" size="12" noshade>
 		</div>
 	</div>
 	<div class="container">
 		<section id="content" class="content">
 			<%- @content %>
 		</section>
+
+		<!--
 		<footer>
-			<p class="pull-left">&copy; Company <%- (new Date()).getFullYear() %></p>
-			<p class="pull-right">
-				This website was last updated at <%= @site.date.toISOString() %>
-			</p>
-		</footer>
+			<p class="pull-right">&copy; Claudia Dietl <%- (new Date()).getFullYear() %></p>
+		</footer>-->
+
+		
 	</div><!-- /container -->
 
 	<!-- Scripts -->
-	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>
+	<%- @getBlock('scripts').add(@site.scripts).toHTML() %>  
+	
+	<%- @getBlock("scripts").add(["/vendor/jquery.js","/vendor/twitter-bootstrap/js/bootstrap-modal.js","/vendor/twitter-bootstrap/js/bootstrap-dropdown.js","/scripts/script.js"]).toHTML() %>
+
+<!--  /vendor/twitter-bootstrap/js/bootstrap-modal.js
+ -->
+ <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://stat.pocketsite.de/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "37"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
 </body>
 </html>
