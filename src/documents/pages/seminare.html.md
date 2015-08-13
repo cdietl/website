@@ -72,7 +72,7 @@ function toggle() {
 <tr><td>Datum:   </td><td><b>So. 11.10. bis Di. 13.10.2015 (genauer Zeitplan nach erfolgter Anmeldung)</b></td> </tr>
 <tr><td>Ort:     </td><td> <b> Arabella Alpenhotel am Spitzingsee, Seeweg 7, 83727 Schliersee-Spitzingsee 
 </b></td></tr>
-<tr><td>Seminargebühr: </td><td> <b> Frühbucher bis 15.08.2015: 1.540.- &euro;. Anschließend 1.790.- &euro; </b></td> </tr>
+<tr><td>Seminargebühr: </td><td> <b> Frühbucher bis 1.9.2015: 1.540.- &euro;. Anschließend 1.790.- &euro; </b></td> </tr>
  </table>
 
 <p> 
