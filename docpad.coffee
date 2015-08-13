@@ -73,10 +73,6 @@ docpadConfig = {
 			# Merge the document keywords with the site keywords
 			@site.keywords.concat(@document.keywords or []).join(', ')
 
-		# Get the Absolute URL of a document
-		getUrl: (document) ->
-			return @site.url + (document.url or document.get?('url'))
-
 
 	# =================================
 	# Collections
