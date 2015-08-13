@@ -8,7 +8,7 @@ pageOrder: 3
 <div class="caption">
 Seminarorte
 </div>
- <img class="whiteborder" src="../images/seminarraeume.png" alt="Seminarräume" width="400" align="right">
+ <img class="whiteborder" src="images/seminarraeume.png" alt="Seminarräume" width="400" align="right">
 </div>
 
 
