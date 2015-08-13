@@ -5,7 +5,7 @@ pageOrder: 1
 ```
 
 <div class="hero-unit">
-<img  src="../images/Claudia_Dietl3.png" alt="Claudia Dietl" width="400" align="right">
+<img  src="../../images/Claudia_Dietl3.png" alt="Claudia Dietl" width="400" align="right">
 
 
 <h3>Claudia M. Dietl</h3>

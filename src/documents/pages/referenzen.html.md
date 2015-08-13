@@ -8,7 +8,7 @@ pageOrder: 5
 <div class="caption">
 Kunden
 </div>
-<img class="whiteborder" src="../images/miniportraits.png" alt="faces" width="400" align="right">
+<img class="whiteborder" src="../../images/miniportraits.png" alt="faces" width="400" align="right">
 </div>
 
 <blockquote>

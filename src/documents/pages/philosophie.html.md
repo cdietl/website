@@ -11,7 +11,7 @@ pageOrder: 2
 <div class="caption">
 Seminarskizze
 </div>
- <img class="whiteborder" src="../images/Selbst-Fremdbild.jpg" alt="Selbst-Fremdbild" width="500" align="right">
+ <img class="whiteborder" src="../../images/Selbst-Fremdbild.jpg" alt="Selbst-Fremdbild" width="500" align="right">
 </div>
 
 

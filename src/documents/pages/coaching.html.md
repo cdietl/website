@@ -8,7 +8,7 @@ pageOrder: 4
 <div class="caption">
 Seminarskizzen
 </div>
- <img class="whiteborder" src="../images/skizzen.png" alt="Skizzen" width="400" align="right">
+ <img class="whiteborder" src="../../images/skizzen.png" alt="Skizzen" width="400" align="right">
 </div>
 
 
