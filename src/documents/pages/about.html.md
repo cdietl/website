@@ -91,6 +91,6 @@ Seit 2013 <b>Pesso-Arbeit</b> bei Heidi Ramesh, München
 - Seit 2014 Coachingausbildung für Führungskräfte 
 
 
-<p> <a href="../pdf/trainerprofil.pdf" target="_top" role="button" class="btn"><i class="icon-download"></i>  Trainerprofil als PDF herunterladen</a></p>
+<p> <a href="../../pdf/trainerprofil.pdf" target="_top" role="button" class="btn"><i class="icon-download"></i>  Trainerprofil als PDF herunterladen</a></p>
 <p>&nbsp;</p>
 
