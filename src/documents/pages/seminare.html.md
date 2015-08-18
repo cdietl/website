@@ -79,7 +79,7 @@ function toggle() {
     Achtung Teilnehmerbegrenzung. <br>Kontakt und weitere Infos: +49 151 253 848 68 oder coaching@claudiadietl.de
 </p>
 
-<p> <a href="pdf/macht-des-gefuehls.pdf" target="_top" role="button" class="btn"><i class="icon-download"></i>  Seminar-Flyer als PDF herunterladen</a></p>
+<p> <a href="../../pdf/macht-des-gefuehls.pdf" target="_top" role="button" class="btn"><i class="icon-download"></i>  Seminar-Flyer als PDF herunterladen</a></p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
