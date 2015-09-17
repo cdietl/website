@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Training - Coaching - Beratung</title>
+	<link href="https://cdietl.github.io/website/atom.xml" rel="self"/>
+	<link href="https://cdietl.github.io/website"/>
+	<updated>2015-09-17T13:31:54.752Z</updated>
+	<id>https://cdietl.github.io/website</id>
+	<author>
+		<name>Claudia Dietl</name>
+		<email>coaching@claudiadietl.de</email>
+	</author>
+
+	
+		<entry>
+			<title>Führen ohne Weisungsbefugnis</title>
+			<link href="https://cdietl.github.io/website//posts/fuehren-ohne-weisungsbefugnis"/>
+			<updated>2014-03-19T06:57:02.000Z</updated>
+			<id>https://cdietl.github.io/website//posts/fuehren-ohne-weisungsbefugnis</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Führen ohne Weisungsbefugnis | Training - Coaching - Beratung&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Claudia Dietl, München Training &amp;amp; Coaching, Seminare für Führungskräfte, Emotionale Intelligenz&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Claudia M. Dietl, München, Training, Coaching, Beratung, Emotionale Intelligenz, Führung&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Claudia Dietl&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Claudia M. Dietl&lt;/a&gt;
+				&lt;ul class=&quot;nav&quot;&gt;
+				&lt;!-- 		
+					&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Training&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/trainings-und-seminare&quot;&gt;Trainings und Seminare&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/konfliktmanagement-fuer-fuehrungskraefte&quot;&gt;Konfliktmanagement für Führungskräfte&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/emotional-intelligent-fuehren&quot;&gt;Emotional intelligent führen&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/fuehren-ohne-weisungsbefugnis&quot;&gt;Führen ohne Weisungsbefugnis&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/erfolgreich-fuehren-ohne-vorgesetzte&quot;&gt;Erfolgreich führen ohne Vorgesetzten&lt;/a&gt;&lt;/li&gt;
+    					&lt;/ul&gt;
+    				&lt;/li&gt;
+
+    				&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Coaching&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/businesscoaching&quot;&gt;Businesscoaching&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/persoenlichescoaching&quot;&gt;Persönliches Coaching&lt;/a&gt;&lt;/li&gt;
+       					&lt;/ul&gt;
+    				&lt;/li&gt; --&gt;
+
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/about&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot;&gt;Über mich&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/philosophie&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/philosophie&quot; property=&quot;dc:title&quot;&gt;Philosophie&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/seminare&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/seminare&quot; property=&quot;dc:title&quot;&gt;Aktuelle Seminare&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/coaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/coaching&quot; property=&quot;dc:title&quot;&gt;Training &amp;amp; Coaching&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/referenzen&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/referenzen&quot; property=&quot;dc:title&quot;&gt;Referenzen&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/kontakt&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/kontakt&quot; property=&quot;dc:title&quot;&gt;Kontakt&lt;/a&gt;
+						&lt;/li&gt;
+					
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;hr style=&quot;background-color:#831000&quot; size=&quot;12&quot; noshade&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h2&gt;Führen ohne Weisungsbefugnis&lt;/h2&gt;
+	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;&lt;img class=&quot;whiteborder&quot; src=&quot;../images/cd3.jpg&quot; alt=&quot;Claudia Dietl&quot; width=&quot;400&quot; align=&quot;right&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+Als laterale Führungskraft kennen Sie gruppendynamische Prozesse und Verhaltensmuster in Teams mit flachen Hierarchien und wissen, wie Sie ihnen erfolgreich begegnen. Sie beweisen regelmäßig Fingerspitzengefühl und diplomatisches Geschick, um Regeln zu etablieren und den Team- und Leistungsgedanken zu fördern. Doch neben dem Arbeitsalltag gibt es immer wieder kritische Situationen, in denen die fehlende Weisungsbefugnis eine besondere Herausforderung darstellt. &lt;br&gt;
+Wie Sie sich in schwierigen Situationen im Spannungsfeld von Kollegen, Team und Ihrem Vorgesetzten klar und optimal positionieren, steht im Mittelpunkt dieses Seminars. Sie lernen, die Ideen Ihrer Teammitglieder zum Erreichen Ihrer Ziele einzubeziehen und auf verschiedenen Ebenen gezielt Einfluss zu nehmen, ohne dabei Ihre formalen Kompetenzen zu überschreiten. Sie arbeiten am Ausbau Ihrer Gesprächs- und Handlungskompetenz, um sich künftig noch souveräner zwischen Macht, Vertrauen und Akzeptanz zu bewegen und auf typische Krisensituationen vorbereitet zu sein.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Ihr Nutzen&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;
+Sie entdecken die Kraft einer souveränen Positionierung selbst in Konflikten.
+Sie nehmen gezielt Einfluss auch ohne Weisungsbefugnis.
+Sie erfahren, wie Sie gruppendynamische Prozesse für Ihre Zwecke nutzen.
+&lt;/p&gt;
+
+
+&lt;!-- &lt;h3&gt;Inhalte&lt;/h3&gt;
+&lt;p&gt;
+&lt;ul&gt;    
+&lt;li&gt;Die richtige Balance zwischen eigenen Zielen, Zielen der Teammitglieder und Zielen der Führungskraft&lt;/li&gt;
+&lt;li&gt;Bewusster Umgang mit der Sandwichproblematik durch Abstecken des eigenen Handlungsrahmens&lt;/li&gt;
+&lt;li&gt;Erkennen und Lösen rollenspezifischer Konflikte&lt;/li&gt;
+&lt;li&gt;Ideen und Anliegen der Mitarbeiter gegen Angriffe von außen schützen&lt;/li&gt;
+&lt;li&gt;Techniken der Konfliktmoderation&lt;/li&gt;
+&lt;li&gt;Konstruktive Konfliktlösung durch Fragekompetenz&lt;/li&gt;
+&lt;li&gt;Was tun, wenn die Rückendeckung „von oben“ fehlt?&lt;/li&gt;
+&lt;li&gt;Handlungsfähigkeit im Spannungsfeld von Authentizität und Loyalität&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt; --&gt;
+
+&lt;p&gt;&lt;h3&gt;Methode&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;
+Trainer-Input, Fallbearbeitung anhand Ihrer Praxisbeispiele, Einzel- und Gruppenübungen, Rollenspiele und Erfahrungsaustausch in der Gruppe.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Zielgruppe&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;
+Mitarbeiter mit Teamverantwortung, Projektleiter und -verantwortliche sowie fachliche Führungskräfte, die bereits ohne hierarchische Macht Führungsverantwortung haben und ihre Kompetenz zur Konfliktlösung in typischen Situationen erweitern möchten.
+ &lt;/p&gt;
+
+
+&lt;p style=&quot;float:right;&quot;&gt;
+(c) Haufe-Akademie
+&lt;/p&gt;&lt;/div&gt;
+&lt;/article&gt;
+		&lt;/section&gt;
+
+		&lt;!--
+		&lt;footer&gt;
+			&lt;p class=&quot;pull-right&quot;&gt;&amp;copy; Claudia Dietl 2015&lt;/p&gt;
+		&lt;/footer&gt;--&gt;
+
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;  
+	
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-dropdown.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+
+&lt;!--  /vendor/twitter-bootstrap/js/bootstrap-modal.js
+ --&gt;
+ &lt;!-- Piwik --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  var _paq = _paq || [];
+  _paq.push([&quot;trackPageView&quot;]);
+  _paq.push([&quot;enableLinkTracking&quot;]);
+
+  (function() {
+    var u=((&quot;https:&quot; == document.location.protocol) ? &quot;https&quot; : &quot;http&quot;) + &quot;://stat.pocketsite.de/&quot;;
+    _paq.push([&quot;setTrackerUrl&quot;, u+&quot;piwik.php&quot;]);
+    _paq.push([&quot;setSiteId&quot;, &quot;37&quot;]);
+    var d=document, g=d.createElement(&quot;script&quot;), s=d.getElementsByTagName(&quot;script&quot;)[0]; g.type=&quot;text/javascript&quot;;
+    g.defer=true; g.async=true; g.src=u+&quot;piwik.js&quot;; s.parentNode.insertBefore(g,s);
+  })();
+&lt;/script&gt;
+&lt;!-- End Piwik Code --&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Persönliches Coaching</title>
+			<link href="https://cdietl.github.io/website//posts/persoenlichescoaching"/>
+			<updated>2014-03-19T06:35:01.000Z</updated>
+			<id>https://cdietl.github.io/website//posts/persoenlichescoaching</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Persönliches Coaching | Training - Coaching - Beratung&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Claudia Dietl, München Training &amp;amp; Coaching, Seminare für Führungskräfte, Emotionale Intelligenz&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Claudia M. Dietl, München, Training, Coaching, Beratung, Emotionale Intelligenz, Führung&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Claudia Dietl&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Claudia M. Dietl&lt;/a&gt;
+				&lt;ul class=&quot;nav&quot;&gt;
+				&lt;!-- 		
+					&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Training&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/trainings-und-seminare&quot;&gt;Trainings und Seminare&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/konfliktmanagement-fuer-fuehrungskraefte&quot;&gt;Konfliktmanagement für Führungskräfte&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/emotional-intelligent-fuehren&quot;&gt;Emotional intelligent führen&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/fuehren-ohne-weisungsbefugnis&quot;&gt;Führen ohne Weisungsbefugnis&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/erfolgreich-fuehren-ohne-vorgesetzte&quot;&gt;Erfolgreich führen ohne Vorgesetzten&lt;/a&gt;&lt;/li&gt;
+    					&lt;/ul&gt;
+    				&lt;/li&gt;
+
+    				&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Coaching&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/businesscoaching&quot;&gt;Businesscoaching&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/persoenlichescoaching&quot;&gt;Persönliches Coaching&lt;/a&gt;&lt;/li&gt;
+       					&lt;/ul&gt;
+    				&lt;/li&gt; --&gt;
+
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/about&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot;&gt;Über mich&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/philosophie&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/philosophie&quot; property=&quot;dc:title&quot;&gt;Philosophie&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/seminare&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/seminare&quot; property=&quot;dc:title&quot;&gt;Aktuelle Seminare&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/coaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/coaching&quot; property=&quot;dc:title&quot;&gt;Training &amp;amp; Coaching&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/referenzen&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/referenzen&quot; property=&quot;dc:title&quot;&gt;Referenzen&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/kontakt&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/kontakt&quot; property=&quot;dc:title&quot;&gt;Kontakt&lt;/a&gt;
+						&lt;/li&gt;
+					
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;hr style=&quot;background-color:#831000&quot; size=&quot;12&quot; noshade&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h2&gt;Persönliches Coaching&lt;/h2&gt;
+	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;&lt;img class=&quot;whiteborder&quot; src=&quot;../images/denkraeume.png&quot; alt=&quot;buero&quot;  width=&quot;400&quot; align=&quot;right&quot; &gt;&lt;/p&gt;
+&lt;p&gt;Sie erlernen die Techniken, die Sie brauchen, um die Persönlichkeit zu sein, die Sie sein wollen: Dem Leben und seinen Anforderungen neugierig aufgeschlossen, leistungsbereit und nicht gestresst. Sie lernen, eine Balance zwischen Arbeitswelt und Privatleben (wieder) herzustellen.
+Es sind oft nur kleine Schritte die zu einem dauerhaften Erfolg führen.&lt;/p&gt;
+
+&lt;p&gt;Mein Markenzeichen: &lt;b&gt;Qualität und Zuverlässigkeit&lt;/b&gt; &lt;br&gt;
+Ihr Ziel: &lt;b&gt;Optimierung aller Lebensbereiche&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Wie kommen diese Eigenschaften in einen kreativen Pool zusammen? &lt;br&gt;
+Ganz einfach: Kontaktieren Sie mich, ich bin in Ihrer Nähe.&lt;/p&gt;&lt;/div&gt;
+&lt;/article&gt;
+		&lt;/section&gt;
+
+		&lt;!--
+		&lt;footer&gt;
+			&lt;p class=&quot;pull-right&quot;&gt;&amp;copy; Claudia Dietl 2015&lt;/p&gt;
+		&lt;/footer&gt;--&gt;
+
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;  
+	
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-dropdown.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+
+&lt;!--  /vendor/twitter-bootstrap/js/bootstrap-modal.js
+ --&gt;
+ &lt;!-- Piwik --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  var _paq = _paq || [];
+  _paq.push([&quot;trackPageView&quot;]);
+  _paq.push([&quot;enableLinkTracking&quot;]);
+
+  (function() {
+    var u=((&quot;https:&quot; == document.location.protocol) ? &quot;https&quot; : &quot;http&quot;) + &quot;://stat.pocketsite.de/&quot;;
+    _paq.push([&quot;setTrackerUrl&quot;, u+&quot;piwik.php&quot;]);
+    _paq.push([&quot;setSiteId&quot;, &quot;37&quot;]);
+    var d=document, g=d.createElement(&quot;script&quot;), s=d.getElementsByTagName(&quot;script&quot;)[0]; g.type=&quot;text/javascript&quot;;
+    g.defer=true; g.async=true; g.src=u+&quot;piwik.js&quot;; s.parentNode.insertBefore(g,s);
+  })();
+&lt;/script&gt;
+&lt;!-- End Piwik Code --&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Businesscoaching</title>
+			<link href="https://cdietl.github.io/website//posts/businesscoaching"/>
+			<updated>2014-03-19T06:29:00.000Z</updated>
+			<id>https://cdietl.github.io/website//posts/businesscoaching</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Businesscoaching | Training - Coaching - Beratung&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Claudia Dietl, München Training &amp;amp; Coaching, Seminare für Führungskräfte, Emotionale Intelligenz&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Claudia M. Dietl, München, Training, Coaching, Beratung, Emotionale Intelligenz, Führung&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Claudia Dietl&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Claudia M. Dietl&lt;/a&gt;
+				&lt;ul class=&quot;nav&quot;&gt;
+				&lt;!-- 		
+					&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Training&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/trainings-und-seminare&quot;&gt;Trainings und Seminare&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/konfliktmanagement-fuer-fuehrungskraefte&quot;&gt;Konfliktmanagement für Führungskräfte&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/emotional-intelligent-fuehren&quot;&gt;Emotional intelligent führen&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/fuehren-ohne-weisungsbefugnis&quot;&gt;Führen ohne Weisungsbefugnis&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/erfolgreich-fuehren-ohne-vorgesetzte&quot;&gt;Erfolgreich führen ohne Vorgesetzten&lt;/a&gt;&lt;/li&gt;
+    					&lt;/ul&gt;
+    				&lt;/li&gt;
+
+    				&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Coaching&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/businesscoaching&quot;&gt;Businesscoaching&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/persoenlichescoaching&quot;&gt;Persönliches Coaching&lt;/a&gt;&lt;/li&gt;
+       					&lt;/ul&gt;
+    				&lt;/li&gt; --&gt;
+
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/about&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot;&gt;Über mich&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/philosophie&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/philosophie&quot; property=&quot;dc:title&quot;&gt;Philosophie&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/seminare&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/seminare&quot; property=&quot;dc:title&quot;&gt;Aktuelle Seminare&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/coaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/coaching&quot; property=&quot;dc:title&quot;&gt;Training &amp;amp; Coaching&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/referenzen&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/referenzen&quot; property=&quot;dc:title&quot;&gt;Referenzen&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/kontakt&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/kontakt&quot; property=&quot;dc:title&quot;&gt;Kontakt&lt;/a&gt;
+						&lt;/li&gt;
+					
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;hr style=&quot;background-color:#831000&quot; size=&quot;12&quot; noshade&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h2&gt;Businesscoaching&lt;/h2&gt;
+	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;&lt;img class=&quot;whiteborder&quot; src=&quot;../images/skizzen.png&quot; alt=&quot;Skizzen&quot;  height=&quot;400&quot; align=&quot;right&quot; &gt;&lt;/p&gt;
+&lt;p&gt;Ihre Erwartungen an Beruf und Privatleben sind hoch. Die Maßstäbe, die Sie an sich stellen und die an Sie gestellt werden, bestimmen Ihre Zeit. &lt;br&gt;
+Vielleicht beschäftigt Sie der Gedanke: Bin ich wirklich so zielorientiert, entscheidungsstark, konfliktfähig, wie ich es von mir erwarte? Wie steht es um mein Team? Helfen mir meine Mitarbeiter, Ziele zu optimieren? &lt;/p&gt;
+
+&lt;p&gt;Wenn Sie da noch Nachholbedarf verspüren, sind Sie schon fast am Ziel.
+Ich biete Ihnen, Ihrem Team und der Organisation die Mittel, die Sie brauchen, um all Ihre Fähigkeiten zu bündeln, um das zu erreichen, was Sie erreichen wollen.&lt;/p&gt;&lt;/div&gt;
+&lt;/article&gt;
+		&lt;/section&gt;
+
+		&lt;!--
+		&lt;footer&gt;
+			&lt;p class=&quot;pull-right&quot;&gt;&amp;copy; Claudia Dietl 2015&lt;/p&gt;
+		&lt;/footer&gt;--&gt;
+
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;  
+	
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-dropdown.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+
+&lt;!--  /vendor/twitter-bootstrap/js/bootstrap-modal.js
+ --&gt;
+ &lt;!-- Piwik --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  var _paq = _paq || [];
+  _paq.push([&quot;trackPageView&quot;]);
+  _paq.push([&quot;enableLinkTracking&quot;]);
+
+  (function() {
+    var u=((&quot;https:&quot; == document.location.protocol) ? &quot;https&quot; : &quot;http&quot;) + &quot;://stat.pocketsite.de/&quot;;
+    _paq.push([&quot;setTrackerUrl&quot;, u+&quot;piwik.php&quot;]);
+    _paq.push([&quot;setSiteId&quot;, &quot;37&quot;]);
+    var d=document, g=d.createElement(&quot;script&quot;), s=d.getElementsByTagName(&quot;script&quot;)[0]; g.type=&quot;text/javascript&quot;;
+    g.defer=true; g.async=true; g.src=u+&quot;piwik.js&quot;; s.parentNode.insertBefore(g,s);
+  })();
+&lt;/script&gt;
+&lt;!-- End Piwik Code --&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Erfolgreich führen ohne Vorgesetztenfunktion</title>
+			<link href="https://cdietl.github.io/website//posts/erfolgreich-fuehren-ohne-vorgesetztenfunktion"/>
+			<updated>2014-03-19T06:03:05.000Z</updated>
+			<id>https://cdietl.github.io/website//posts/erfolgreich-fuehren-ohne-vorgesetztenfunktion</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Erfolgreich führen ohne Vorgesetztenfunktion | Training - Coaching - Beratung&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Claudia Dietl, München Training &amp;amp; Coaching, Seminare für Führungskräfte, Emotionale Intelligenz&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Claudia M. Dietl, München, Training, Coaching, Beratung, Emotionale Intelligenz, Führung&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Claudia Dietl&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Claudia M. Dietl&lt;/a&gt;
+				&lt;ul class=&quot;nav&quot;&gt;
+				&lt;!-- 		
+					&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Training&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/trainings-und-seminare&quot;&gt;Trainings und Seminare&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/konfliktmanagement-fuer-fuehrungskraefte&quot;&gt;Konfliktmanagement für Führungskräfte&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/emotional-intelligent-fuehren&quot;&gt;Emotional intelligent führen&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/fuehren-ohne-weisungsbefugnis&quot;&gt;Führen ohne Weisungsbefugnis&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/erfolgreich-fuehren-ohne-vorgesetzte&quot;&gt;Erfolgreich führen ohne Vorgesetzten&lt;/a&gt;&lt;/li&gt;
+    					&lt;/ul&gt;
+    				&lt;/li&gt;
+
+    				&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Coaching&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/businesscoaching&quot;&gt;Businesscoaching&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/persoenlichescoaching&quot;&gt;Persönliches Coaching&lt;/a&gt;&lt;/li&gt;
+       					&lt;/ul&gt;
+    				&lt;/li&gt; --&gt;
+
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/about&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot;&gt;Über mich&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/philosophie&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/philosophie&quot; property=&quot;dc:title&quot;&gt;Philosophie&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/seminare&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/seminare&quot; property=&quot;dc:title&quot;&gt;Aktuelle Seminare&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/coaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/coaching&quot; property=&quot;dc:title&quot;&gt;Training &amp;amp; Coaching&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/referenzen&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/referenzen&quot; property=&quot;dc:title&quot;&gt;Referenzen&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/kontakt&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/kontakt&quot; property=&quot;dc:title&quot;&gt;Kontakt&lt;/a&gt;
+						&lt;/li&gt;
+					
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;hr style=&quot;background-color:#831000&quot; size=&quot;12&quot; noshade&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h2&gt;Erfolgreich führen ohne Vorgesetztenfunktion&lt;/h2&gt;
+	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;&lt;img  class=&quot;whiteborder&quot; src=&quot;../images/cd2.jpg&quot; alt=&quot;Claudia Dietl&quot; width=&quot;400&quot; align=&quot;right&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+In Teams mit flachen Hierarchien oder wenn Projektteams kurzfristig zusammenkommen, entsteht häufig eine große Unsicherheit darüber, wer eigentlich das Sagen hat. Führung ohne Weisungsbefugnis oder auch laterale Führung ist aus dem modernen Arbeitsalltag nicht mehr wegzudenken. Manchmal regelt sich das Zusammenspiel von selbst, oft entstehen jedoch Blockaden oder Mitarbeiter ziehen sich in die Passivität zurück. Der lateralen Führungskraft fehlen viele Instrumente echter Führung, dennoch kann sie ihre Aufgabe erfolgreich meistern: mit Offenheit und Überzeugungskraft. &lt;br&gt;
+In diesem Seminar klären Sie Ihre eigenen Unsicherheiten als fachliche Führungskraft ohne direkte Weisungsbefugnis. Sie bereiten sich auf Verhaltensmuster Ihrer Kollegen vor und erfahren, worauf Sie achten und was Sie vermeiden sollten. Dabei erleben Sie, was es bedeutet, bloße Weisungen zu erteilen oder die Selbstverantwortung der Mitarbeiter zu fördern. Sie erkennen Ihre Möglichkeiten als Moderator und erfahren, wie Sie Ihr Team erfolgreich koordinieren können. Sie lernen, Missverständnisse anzusprechen, konstruktive Gespräche zu führen, Regeln zu etablieren und den Teamgedanken zu fördern.
+&lt;/p&gt;
+
+&lt;h3&gt;Ihr Nutzen&lt;/h3&gt;
+
+
+&lt;p&gt;
+Sie gewinnen Sicherheit in der Rolle als fachliche Führungskraft ohne direkte Weisungsbefugnis.
+Sie erlangen praktische Übung und Routine im Umgang mit typischen Verhaltensmustern.
+Der Austausch mit anderen Teilnehmern bringt wertvolle Tipps für die Praxis.
+&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;h3&gt;Methode&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;
+Trainer-Input, Fallbearbeitung anhand Ihrer Praxisbeispiele, Einzel- und Gruppenarbeit, Rollenspiele und Erfahrungsaustausch in der Gruppe.
+&lt;/p&gt;
+
+
+&lt;p&gt;&lt;h3&gt;Zielgruppe&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;
+Mitarbeiter mit Teamverantwortung, Projektleiter und -verantwortliche sowie fachliche Führungskräfte, die bereits lateral führen oder sich darauf vorbereiten.
+&lt;/p&gt;
+
+
+&lt;p style=&quot;float:right;&quot;&gt;
+(c) Haufe-Akademie
+&lt;/p&gt;&lt;/div&gt;
+&lt;/article&gt;
+		&lt;/section&gt;
+
+		&lt;!--
+		&lt;footer&gt;
+			&lt;p class=&quot;pull-right&quot;&gt;&amp;copy; Claudia Dietl 2015&lt;/p&gt;
+		&lt;/footer&gt;--&gt;
+
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;  
+	
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-dropdown.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+
+&lt;!--  /vendor/twitter-bootstrap/js/bootstrap-modal.js
+ --&gt;
+ &lt;!-- Piwik --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  var _paq = _paq || [];
+  _paq.push([&quot;trackPageView&quot;]);
+  _paq.push([&quot;enableLinkTracking&quot;]);
+
+  (function() {
+    var u=((&quot;https:&quot; == document.location.protocol) ? &quot;https&quot; : &quot;http&quot;) + &quot;://stat.pocketsite.de/&quot;;
+    _paq.push([&quot;setTrackerUrl&quot;, u+&quot;piwik.php&quot;]);
+    _paq.push([&quot;setSiteId&quot;, &quot;37&quot;]);
+    var d=document, g=d.createElement(&quot;script&quot;), s=d.getElementsByTagName(&quot;script&quot;)[0]; g.type=&quot;text/javascript&quot;;
+    g.defer=true; g.async=true; g.src=u+&quot;piwik.js&quot;; s.parentNode.insertBefore(g,s);
+  })();
+&lt;/script&gt;
+&lt;!-- End Piwik Code --&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Konfliktmanagement für Führungskräfte</title>
+			<link href="https://cdietl.github.io/website//posts/konfliktmanagement-fuer-fuehrungskraefte"/>
+			<updated>2014-03-19T05:49:29.000Z</updated>
+			<id>https://cdietl.github.io/website//posts/konfliktmanagement-fuer-fuehrungskraefte</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Konfliktmanagement für Führungskräfte | Training - Coaching - Beratung&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Claudia Dietl, München Training &amp;amp; Coaching, Seminare für Führungskräfte, Emotionale Intelligenz&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Claudia M. Dietl, München, Training, Coaching, Beratung, Emotionale Intelligenz, Führung&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Claudia Dietl&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Claudia M. Dietl&lt;/a&gt;
+				&lt;ul class=&quot;nav&quot;&gt;
+				&lt;!-- 		
+					&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Training&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/trainings-und-seminare&quot;&gt;Trainings und Seminare&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/konfliktmanagement-fuer-fuehrungskraefte&quot;&gt;Konfliktmanagement für Führungskräfte&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/emotional-intelligent-fuehren&quot;&gt;Emotional intelligent führen&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/fuehren-ohne-weisungsbefugnis&quot;&gt;Führen ohne Weisungsbefugnis&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/erfolgreich-fuehren-ohne-vorgesetzte&quot;&gt;Erfolgreich führen ohne Vorgesetzten&lt;/a&gt;&lt;/li&gt;
+    					&lt;/ul&gt;
+    				&lt;/li&gt;
+
+    				&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Coaching&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/businesscoaching&quot;&gt;Businesscoaching&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/persoenlichescoaching&quot;&gt;Persönliches Coaching&lt;/a&gt;&lt;/li&gt;
+       					&lt;/ul&gt;
+    				&lt;/li&gt; --&gt;
+
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/about&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot;&gt;Über mich&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/philosophie&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/philosophie&quot; property=&quot;dc:title&quot;&gt;Philosophie&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/seminare&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/seminare&quot; property=&quot;dc:title&quot;&gt;Aktuelle Seminare&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/coaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/coaching&quot; property=&quot;dc:title&quot;&gt;Training &amp;amp; Coaching&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/referenzen&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/referenzen&quot; property=&quot;dc:title&quot;&gt;Referenzen&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/kontakt&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/kontakt&quot; property=&quot;dc:title&quot;&gt;Kontakt&lt;/a&gt;
+						&lt;/li&gt;
+					
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;hr style=&quot;background-color:#831000&quot; size=&quot;12&quot; noshade&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h2&gt;Konfliktmanagement für Führungskräfte&lt;/h2&gt;
+	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;&lt;img class=&quot;whiteborder&quot; src=&quot;../images/cd4.jpg&quot; alt=&quot;Claudia Dietl&quot; width=&quot;400&quot; align=&quot;right&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+
+&lt;p&gt;
+Als Führungskraft sind Sie besonders angesprochen, mit Konflikten aktiv und konstruktiv umzugehen — sei es als Moderator oder als Beteiligter! Lernen Sie wirkungsvolle Techniken im Umgang mit Konflikten kennen und trainieren Sie lösungsorientierte Einstellungen und Verhaltensweisen, damit Sie auch in schwierigen Situationen angemessen reagieren und die innere Balance halten können.
+&lt;/p&gt;
+&lt;!-- 
+&lt;h3&gt;Inhalte&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Führung heißt Konflikte managen&lt;/li&gt;
+&lt;li&gt;Konflikte in Teams, Gruppen und Organisationen.&lt;/li&gt;
+&lt;li&gt;Konflikte in der Mitarbeiterführung.&lt;/li&gt;
+&lt;li&gt;Konflikte im eigenen Rollenverständnis als Führungskraft.&lt;/li&gt;
+&lt;li&gt;Konflikte mit Kollegen und eigenen Vorgesetzten.&lt;/li&gt;
+&lt;li&gt;Die Führungskraft als Konfliktmoderator.&lt;/li&gt;
+&lt;li&gt;Ursachen und Symptome von Konflikten&lt;/li&gt;
+&lt;li&gt;Quellen der Konfliktentstehung.&lt;/li&gt;
+&lt;li&gt;Wann handelt es sich um einen Konflikt und wann nicht?&lt;/li&gt;
+&lt;li&gt;Konfliktpotenziale frühzeitig erkennen und auflösen.&lt;/li&gt;
+&lt;li&gt;Die innere Einstellung entscheidet über das Konfliktverhalten&lt;/li&gt;
+&lt;li&gt;Analyse der eigenen Denk- und Handlungsmuster in schwierigen Situationen.&lt;/li&gt;
+&lt;li&gt;Was hat meine Einstellung mit meinem Konfliktverhalten als Führungskraft zu tun?&lt;/li&gt;
+&lt;li&gt;Vom Misstrauen zum Vertrauen, von der Konfrontation zur Kooperation.&lt;/li&gt;
+&lt;li&gt;Welche Chance steckt hinter einem Konflikt?&lt;/li&gt;
+&lt;li&gt;Konflikte verstehen und gezielt bewältigen&lt;/li&gt;
+&lt;li&gt;Modelle der Konfliktlösung gezielt einsetzen.&lt;/li&gt;
+&lt;li&gt;Konfliktstile erkennen und konstruktiv damit umgehen.&lt;/li&gt;
+&lt;li&gt;Die Sichtweise des anderen nachvollziehen, aber wie?&lt;/li&gt;
+&lt;li&gt;Verhandeln unterschiedlicher Positionen und Interessen.&lt;/li&gt;
+&lt;li&gt;Reagieren Frauen und Männer unterschiedlich in Konflikten?&lt;/li&gt;
+&lt;li&gt;Umgang mit Emotionen bei sich und den anderen.&lt;/li&gt;
+&lt;li&gt;Stärkung der eigenen Konfliktfähigkeit&lt;/li&gt;
+&lt;li&gt;Sich selbst in Konfliktsituationen exzellent führen.&lt;/li&gt;
+&lt;li&gt;Gelassener mit schwierigen Konfliktpartnern umgehen.&lt;/li&gt;
+&lt;li&gt;Persönliche Potenziale nutzen, eigene Konfliktmuster erkennen, Negativ-Spiralen durchbrechen.&lt;/li&gt;
+&lt;li&gt;Auf schwierige Situtionen angemessen reagieren.&lt;/li&gt;
+&lt;li&gt;Bearbeitung konkreter Konfliktfälle aus dem eigenen Umfeld&lt;/li&gt;
+&lt;/ul&gt;
+ --&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Ihr Nutzen&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;
+Sie setzen sich aktiv mit dem Thema Konflikte auseinander und lernen dabei Strategien kennen, mit denen Sie Konflikte
+rechtzeitig erkennen,
+positiv gestalten,
+gewinnbringend auflösen und
+professionell nutzen.
+Sie lernen, wie Sie wirklichen Zugang zu Ihren Mitarbeitern — auch in schwierigen Situationen — bekommen und ein sportliches Leistungsklima aufbauen. Durch sofort umsetzbare, praxiserprobte Tools und persönliches Coaching ist der Nutzeneffekt besonders hoch. 
+&lt;/p&gt;
+
+&lt;p&gt;&lt;h3&gt;Methoden&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Sie haben die Möglichkeit, konkrete Konfliktfälle aus Ihrem Umfeld vorzustellen. In Diskussionen und Rollenspielen werden gemeinsam Lösungsansätze für die Praxis erarbeitet. Mittels Präsentation, praktischen Übungen, Erfahrungsaustausch und Kommunikationsübungen wird das Thema umfassend behandelt.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;h3&gt;Zielgruppe&lt;/h3&gt;&lt;/p&gt;
+&lt;p&gt;Führungskräfte aller Ebenen, Projektleiter.
+&lt;/p&gt;
+
+
+&lt;p style=&quot;float:right;&quot;&gt;
+(c) Haufe-Akademie
+&lt;/p&gt;&lt;/div&gt;
+&lt;/article&gt;
+		&lt;/section&gt;
+
+		&lt;!--
+		&lt;footer&gt;
+			&lt;p class=&quot;pull-right&quot;&gt;&amp;copy; Claudia Dietl 2015&lt;/p&gt;
+		&lt;/footer&gt;--&gt;
+
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;  
+	
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-dropdown.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+
+&lt;!--  /vendor/twitter-bootstrap/js/bootstrap-modal.js
+ --&gt;
+ &lt;!-- Piwik --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  var _paq = _paq || [];
+  _paq.push([&quot;trackPageView&quot;]);
+  _paq.push([&quot;enableLinkTracking&quot;]);
+
+  (function() {
+    var u=((&quot;https:&quot; == document.location.protocol) ? &quot;https&quot; : &quot;http&quot;) + &quot;://stat.pocketsite.de/&quot;;
+    _paq.push([&quot;setTrackerUrl&quot;, u+&quot;piwik.php&quot;]);
+    _paq.push([&quot;setSiteId&quot;, &quot;37&quot;]);
+    var d=document, g=d.createElement(&quot;script&quot;), s=d.getElementsByTagName(&quot;script&quot;)[0]; g.type=&quot;text/javascript&quot;;
+    g.defer=true; g.async=true; g.src=u+&quot;piwik.js&quot;; s.parentNode.insertBefore(g,s);
+  })();
+&lt;/script&gt;
+&lt;!-- End Piwik Code --&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Emotional intelligent führen</title>
+			<link href="https://cdietl.github.io/website//posts/emotional-intelligent-fuehren"/>
+			<updated>2014-03-19T05:49:19.000Z</updated>
+			<id>https://cdietl.github.io/website//posts/emotional-intelligent-fuehren</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Emotional intelligent führen | Training - Coaching - Beratung&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Claudia Dietl, München Training &amp;amp; Coaching, Seminare für Führungskräfte, Emotionale Intelligenz&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Claudia M. Dietl, München, Training, Coaching, Beratung, Emotionale Intelligenz, Führung&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Claudia Dietl&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta name=&quot;generator&quot; content=&quot;DocPad v6.53.4&quot; /&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;icons/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57-precomposed.png&quot;&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/twitter-bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Claudia M. Dietl&lt;/a&gt;
+				&lt;ul class=&quot;nav&quot;&gt;
+				&lt;!-- 		
+					&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Training&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/trainings-und-seminare&quot;&gt;Trainings und Seminare&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/konfliktmanagement-fuer-fuehrungskraefte&quot;&gt;Konfliktmanagement für Führungskräfte&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/emotional-intelligent-fuehren&quot;&gt;Emotional intelligent führen&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/fuehren-ohne-weisungsbefugnis&quot;&gt;Führen ohne Weisungsbefugnis&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/erfolgreich-fuehren-ohne-vorgesetzte&quot;&gt;Erfolgreich führen ohne Vorgesetzten&lt;/a&gt;&lt;/li&gt;
+    					&lt;/ul&gt;
+    				&lt;/li&gt;
+
+    				&lt;li class=&quot;dropdown&quot;&gt;
+    						&lt;a class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; href=&quot;#&quot;&gt;Coaching&lt;/a&gt;
+   						 &lt;ul class=&quot;dropdown-menu&quot; role=&quot;menu&quot; aria-labelledby=&quot;dLabel&quot;&gt;
+   						 		&lt;li&gt;&lt;a href=&quot;/posts/businesscoaching&quot;&gt;Businesscoaching&lt;/a&gt;&lt;/li&gt;
+    							&lt;li&gt;&lt;a href=&quot;/posts/persoenlichescoaching&quot;&gt;Persönliches Coaching&lt;/a&gt;&lt;/li&gt;
+       					&lt;/ul&gt;
+    				&lt;/li&gt; --&gt;
+
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/about&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/about&quot; property=&quot;dc:title&quot;&gt;Über mich&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/philosophie&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/philosophie&quot; property=&quot;dc:title&quot;&gt;Philosophie&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/seminare&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/seminare&quot; property=&quot;dc:title&quot;&gt;Aktuelle Seminare&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/coaching&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/coaching&quot; property=&quot;dc:title&quot;&gt;Training &amp;amp; Coaching&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/referenzen&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/referenzen&quot; property=&quot;dc:title&quot;&gt;Referenzen&lt;/a&gt;
+						&lt;/li&gt;
+					
+						&lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/kontakt&quot; class=&quot;&quot;&gt;
+							&lt;a href=&quot;/pages/kontakt&quot; property=&quot;dc:title&quot;&gt;Kontakt&lt;/a&gt;
+						&lt;/li&gt;
+					
+				&lt;/ul&gt;
+			&lt;/div&gt;
+			&lt;hr style=&quot;background-color:#831000&quot; size=&quot;12&quot; noshade&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h2&gt;Emotional intelligent führen&lt;/h2&gt;
+	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;&lt;img class=&quot;whiteborder&quot; src=&quot;../images/cd1.jpg&quot; alt=&quot;Claudia Dietl&quot; width=&quot;400&quot; align=&quot;right&quot;&gt;&lt;/p&gt;
+&lt;p&gt;
+Emotionen und Erfahrungen beeinflussen bewusst und unbewusst unsere Begegnungen mit anderen. In diesem Seminar setzen Sie sich aktiv damit auseinander, welche Reaktionen Situationen und Menschen bei Ihnen auslösen, und lernen auf diese Weise sich selbst und Ihr Verhalten besser zu verstehen. Durch mehr Achtsamkeit im Umgang mit sich selbst und anderen nehmen Sie emotionale Muster bewusster wahr, erkennen Automatismen und schaffen so Wege für neue Handlungsoptionen. &lt;br&gt;
+Sie erarbeiten sich ein Verständnis für Wechselwirkungen und dafür, wie es Ihnen gelingen kann, sich auch in schwierigen Situationen eine konstruktive und kooperative Grundhaltung zu erhalten. Dabei hilft Ihnen das Bewusstsein für die individuelle Persönlichkeit Ihres Gegenübers. Dieses Seminar bietet Ihnen den geeigneten Rahmen, neue Verhaltensoptionen auszuprobieren und Ihre eigene Persönlichkeitsentwicklung entscheidend voranzubringen.
+&lt;/p&gt;
+
+&lt;h3&gt;Ihr Nutzen&lt;/h3&gt;
+&lt;p&gt;
+Sie verstehen bewusste und unbewusste zwischenmenschliche Wechselwirkungen.
+Sie schaffen die Basis für eine professionelle und authentische Beziehung zu Ihren Mitarbeitern.
+Durch kontinuierliches Überprüfen Ihrer inneren Haltung bleiben Sie in Kommunikation und Zusammenarbeit authentisch und konstruktiv.
+&lt;/p&gt;
+
+
+&lt;!-- &lt;h3&gt;Inhalte&lt;/h3&gt;
+ --&gt;
+&lt;!-- &lt;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Selbstführung in schwierigen Situationen&lt;/li&gt;
+&lt;li&gt;Äußeres Verhalten des Gegenübers und eigenes Erleben&lt;/li&gt;
+&lt;li&gt;Ursachen für impulsives und automatisches Reagieren&lt;/li&gt;
+&lt;li&gt;Achtsamkeit als Basis der Selbstwahrnehmung&lt;/li&gt;
+&lt;li&gt;Automatismen erkennen und Handlungsoptionen entwickeln&lt;/li&gt;
+&lt;li&gt;Das Modell der destruktiven Wechselwirkung&lt;/li&gt;
+&lt;li&gt;Emotional intelligent führen: kooperative Basis gestalten und Kontaktfähigkeit erhöhen&lt;/li&gt;
+&lt;li&gt;Unterschiedlichen Persönlichkeiten situativ begegnen&lt;/li&gt;
+&lt;li&gt;Führung im Spannungsfeld von Veränderungen und andauerndem Leistungsdruck&lt;/li&gt;
+&lt;li&gt;Persönliche Lernziele für die Führungspraxis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt; --&gt;
+
+
+&lt;h3&gt;Methode&lt;/h3&gt;
+
+&lt;p&gt;
+Trainer-Input und Diskussion, Kontakt- und Empathieaussagen, Arbeit mit Persönlichkeitsteilen (IFS), Charakterstile, Prozessfragen, Selbstcoaching, Gruppen- und Einzelcoaching, Rollenübungen, Achtsamkeitsübungen.
+&lt;/p&gt;
+
+
+&lt;h3&gt;Zielgruppe&lt;/h3&gt;
+
+&lt;p&gt;
+Führungskräfte sowie Team- und Projektleiter, die bereits Erfahrung in der Führung von Mitarbeitern oder Teams gesammelt haben. 
+&lt;/p&gt;
+
+&lt;p&gt;&lt;p style=&quot;float:right;&quot;&gt;
+(c) Haufe-Akademie&lt;/p&gt;
+&lt;/div&gt;
+&lt;/article&gt;
+		&lt;/section&gt;
+
+		&lt;!--
+		&lt;footer&gt;
+			&lt;p class=&quot;pull-right&quot;&gt;&amp;copy; Claudia Dietl 2015&lt;/p&gt;
+		&lt;/footer&gt;--&gt;
+
+		
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;  
+	
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-modal.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-dropdown.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+
+&lt;!--  /vendor/twitter-bootstrap/js/bootstrap-modal.js
+ --&gt;
+ &lt;!-- Piwik --&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+  var _paq = _paq || [];
+  _paq.push([&quot;trackPageView&quot;]);
+  _paq.push([&quot;enableLinkTracking&quot;]);
+
+  (function() {
+    var u=((&quot;https:&quot; == document.location.protocol) ? &quot;https&quot; : &quot;http&quot;) + &quot;://stat.pocketsite.de/&quot;;
+    _paq.push([&quot;setTrackerUrl&quot;, u+&quot;piwik.php&quot;]);
+    _paq.push([&quot;setSiteId&quot;, &quot;37&quot;]);
+    var d=document, g=d.createElement(&quot;script&quot;), s=d.getElementsByTagName(&quot;script&quot;)[0]; g.type=&quot;text/javascript&quot;;
+    g.defer=true; g.async=true; g.src=u+&quot;piwik.js&quot;; s.parentNode.insertBefore(g,s);
+  })();
+&lt;/script&gt;
+&lt;!-- End Piwik Code --&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+</feed>

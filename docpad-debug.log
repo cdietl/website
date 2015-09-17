@@ -1,0 +1,90 @@
+debug: Loading user's configuration: /Users/gumpp/Dropbox/.docpad.cson
+    → [2015-08-12 18:11:39.582] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1424] [Task.<anonymous>]
+debug: Loading configuration path: /Users/gumpp/Dropbox/.docpad.cson
+    → [2015-08-12 18:11:39.589] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1584] [load]
+debug: Loading user's configuration: /Users/gumpp/Dropbox/.docpad.cson
+    → [2015-08-12 18:11:39.615] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1432] [unknown]
+debug: Loading website package.json configuration: /Applications/MAMP/htdocs/devel/claudiadietl/docpad/out/package.json
+    → [2015-08-12 18:11:39.618] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1472] [Task.<anonymous>]
+debug: Loading configuration path: /Applications/MAMP/htdocs/devel/claudiadietl/docpad/out/package.json
+    → [2015-08-12 18:11:39.620] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1584] [load]
+debug: Loaded website package.json configuration: /Applications/MAMP/htdocs/devel/claudiadietl/docpad/out/package.json
+    → [2015-08-12 18:11:39.623] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1481] [unknown]
+debug: Loading .env file configuration: /Applications/MAMP/htdocs/devel/claudiadietl/docpad/out/.env
+    → [2015-08-12 18:11:39.625] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1491] [Task.<anonymous>]
+debug: Loading website configuration
+    → [2015-08-12 18:11:39.628] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1515] [Task.<anonymous>]
+debug: Loaded website configuration
+    → [2015-08-12 18:11:39.637] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1530] [unknown]
+debug: Emitting the event: extendCollections
+    → [2015-08-12 18:11:39.672] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: extendCollections
+    → [2015-08-12 18:11:39.682] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
+debug: Emitting the event: extendTemplateData
+    → [2015-08-12 18:11:39.691] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: extendTemplateData
+    → [2015-08-12 18:11:39.696] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
+debug: Emitting the event: docpadLoaded
+    → [2015-08-12 18:11:39.703] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: docpadLoaded
+    → [2015-08-12 18:11:39.709] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
+debug: Emitting the event: consoleSetup
+    → [2015-08-12 18:11:39.733] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: consoleSetup
+    → [2015-08-12 18:11:39.750] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
+debug: Loading user's configuration: /Users/gumpp/Dropbox/.docpad.cson
+    → [2015-08-12 18:11:39.789] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1424] [Task.<anonymous>]
+debug: Loading configuration path: /Users/gumpp/Dropbox/.docpad.cson
+    → [2015-08-12 18:11:39.794] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1584] [load]
+debug: Loading user's configuration: /Users/gumpp/Dropbox/.docpad.cson
+    → [2015-08-12 18:11:39.820] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1432] [unknown]
+debug: Loading website package.json configuration: /Applications/MAMP/htdocs/devel/claudiadietl/docpad/out/package.json
+    → [2015-08-12 18:11:39.823] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1472] [Task.<anonymous>]
+debug: Loading configuration path: /Applications/MAMP/htdocs/devel/claudiadietl/docpad/out/package.json
+    → [2015-08-12 18:11:39.826] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1584] [load]
+debug: Loaded website package.json configuration: /Applications/MAMP/htdocs/devel/claudiadietl/docpad/out/package.json
+    → [2015-08-12 18:11:39.829] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1481] [unknown]
+debug: Loading .env file configuration: /Applications/MAMP/htdocs/devel/claudiadietl/docpad/out/.env
+    → [2015-08-12 18:11:39.834] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1491] [Task.<anonymous>]
+debug: Loading website configuration
+    → [2015-08-12 18:11:39.845] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1515] [Task.<anonymous>]
+debug: Loaded website configuration
+    → [2015-08-12 18:11:39.852] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1530] [unknown]
+debug: Emitting the event: extendCollections
+    → [2015-08-12 18:11:39.874] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: extendCollections
+    → [2015-08-12 18:11:39.881] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
+debug: Emitting the event: extendTemplateData
+    → [2015-08-12 18:11:39.887] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: extendTemplateData
+    → [2015-08-12 18:11:39.892] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
+debug: Emitting the event: docpadLoaded
+    → [2015-08-12 18:11:39.899] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: docpadLoaded
+    → [2015-08-12 18:11:39.903] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
+info: Welcome to DocPad v6.69.2 (global installation: /usr/local/lib/node_modules/docpad)
+    → [2015-08-12 18:11:39.913] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1241] [DocPad.ready]
+notice: If everyone who saw this message donated $1/week, maintaining DocPad would become sustainable: http://docpad.org/donate
+    → [2015-08-12 18:11:39.916] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1242] [DocPad.ready]
+info: Contribute: http://docpad.org/docs/contribute
+    → [2015-08-12 18:11:39.921] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1243] [DocPad.ready]
+info: Plugins: 
+    → [2015-08-12 18:11:39.924] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1244] [DocPad.ready]
+info: Environment: development
+    → [2015-08-12 18:11:39.926] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1245] [DocPad.ready]
+debug: Emitting the event: welcome
+    → [2015-08-12 18:11:39.937] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: welcome
+    → [2015-08-12 18:11:39.948] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
+debug: Emitting the event: docpadReady
+    → [2015-08-12 18:11:39.955] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: docpadReady
+    → [2015-08-12 18:11:39.961] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
+info: The action completed successfully
+    → [2015-08-12 18:11:39.996] [/usr/local/lib/node_modules/docpad/out/lib/interfaces/console.js:160] [completeAction]
+info: Shutting down... cya next time!
+    → [2015-08-12 18:11:40.017] [/usr/local/lib/node_modules/docpad/out/lib/interfaces/console.js:119] [ConsoleInterface.destroy]
+debug: Emitting the event: docpadDestroy
+    → [2015-08-12 18:11:40.023] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1164] [DocPad.emitSerial]
+debug: Emitted the event: docpadDestroy
+    → [2015-08-12 18:11:40.040] [/usr/local/lib/node_modules/docpad/out/lib/docpad.js:1169] [TaskGroup.<anonymous>]
