@@ -48,6 +48,7 @@ function toggle() {
 
 <p>&nbsp;</p>
 
+<!-- 
 <h4>DIE MACHT DES GEFÜHLS</h4>
 <b>Das besondere Managementseminar</b>
 
@@ -83,7 +84,7 @@ function toggle() {
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
+-->
 
 
 <b>Seminar für Führungskräfte und Privatpersonen: </b>
